@@ -1,0 +1,27 @@
+.animal-card{
+    width: 300px;
+    border: 1px solid rgb(94, 94, 94);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.animal-info{
+    text-align: center;
+}
+
+.animal-emoji{
+    font-size: 3.2rem;
+    margin-top: 20px;
+}
+
+.fun-facts{
+    background-color:rgb(50, 38, 56);
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+
+.fun-facts li{
+    margin-bottom: 10px;
+}

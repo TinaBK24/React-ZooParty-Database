@@ -1,0 +1,11 @@
+h1, h2, section p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.animals-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
